@@ -1,0 +1,30 @@
+[
+    {
+        "firstName": "Michael",
+        "lastName": "Scott",
+        "email": "mgscott@dundermifflin.com",
+        "phone": "555 777 0304",
+        "postalCode": "M5B 2J6"
+    },
+    {
+        "firstName": "Dwight",
+        "lastName": "Schrute",
+        "email": "dschruteaarm@dundermifflin.com",
+        "phone": "5557770304",
+        "postalCode": "M5B2J6"
+    },
+    {    
+        "firstName": "Pamela Beesly-Halpert",
+        "lastName": "",
+        "email": "pam@dundermifflin.com",
+        "phone": "555 777 0304",
+        "postalCode": "M5B 2J6"
+    },
+    {
+        "firstName": "Andy",
+        "lastName": "Bernard",
+        "email": "abernard@dundermifflin.com",
+        "phone": "",
+        "postalCode": ""
+    }
+]
